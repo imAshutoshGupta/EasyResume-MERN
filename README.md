@@ -1,1 +1,1 @@
-# Resume-Builder-MERN
+# EasyResume-MERN
